@@ -1,2 +1,2 @@
 # Intelligent-Systems
-Para la clase de Benji sobre Deep Learning
+Repositorio para mis proyectos de intelligencia artificial
